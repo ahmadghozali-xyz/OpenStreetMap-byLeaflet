@@ -1,162 +1,164 @@
 export const locations = [
+  // 10 Lokasi Hasil Survey
   {
     id: 1,
-    nama: "Taman Mini Indonesia Indah",
-    latitude: -6.302445,
-    longitude: 106.895475,
-    kategori: "Wisata",
-    deskripsi: "Taman rekreasi dengan miniatur budaya Indonesia"
+    nama: "Stadion Utama Riau",
+    latitude: 0.483612,
+    longitude: 101.389609,
+    kategori: "Olahraga",
+    deskripsi: "Stadion utama Provinsi Riau dengan kapasitas 44.000 penonton"
   },
   {
     id: 2,
-    nama: "Monumen Nasional",
-    latitude: -6.175110,
-    longitude: 106.827153,
-    kategori: "Wisata",
-    deskripsi: "Monumen nasional simbol kota Jakarta"
+    nama: "Universitas Muhammadiyah Riau",
+    latitude: 0.498987,
+    longitude: 101.415415,
+    kategori: "Pendidikan",
+    deskripsi: "Perguruan tinggi swasta di bawah naungan Muhammadiyah"
   },
   {
     id: 3,
-    nama: "Museum Nasional Indonesia",
-    latitude: -6.176389,
-    longitude: 106.822772,
+    nama: "Universitas Riau",
+    latitude: 0.476286,
+    longitude: 101.380939,
     kategori: "Pendidikan",
-    deskripsi: "Museum arkeologi dan sejarah Indonesia"
+    deskripsi: "Universitas negeri tertua dan terbesar di Provinsi Riau"
   },
   {
     id: 4,
-    nama: "Universitas Indonesia",
-    latitude: -6.364500,
-    longitude: 106.826667,
+    nama: "SMK Kansai Pekanbaru",
+    latitude: 0.467964,
+    longitude: 101.400623,
     kategori: "Pendidikan",
-    deskripsi: "Kampus utama Universitas Indonesia"
+    deskripsi: "Sekolah Menengah Kejuruan di Pekanbaru"
   },
   {
     id: 5,
-    nama: "Rumah Sakit Cipto Mangunkusumo",
-    latitude: -6.196750,
-    longitude: 106.850278,
-    kategori: "Kesehatan",
-    deskripsi: "Rumah sakit pusat rujukan nasional"
+    nama: "SMP Negeri 40 Pekanbaru",
+    latitude: 0.489946,
+    longitude: 101.362335,
+    kategori: "Pendidikan",
+    deskripsi: "Sekolah Menengah Pertama Negeri di Pekanbaru"
   },
   {
     id: 6,
-    nama: "Stasiun Gambir",
-    latitude: -6.176667,
-    longitude: 106.830556,
-    kategori: "Transportasi",
-    deskripsi: "Stasiun kereta api utama Jakarta"
+    nama: "Wisata Alamayang",
+    latitude: 0.492901,
+    longitude: 101.499823,
+    kategori: "Wisata",
+    deskripsi: "Taman rekreasi keluarga dengan danau buatan"
   },
   {
     id: 7,
-    nama: "Bandara Soekarno-Hatta",
-    latitude: -6.125589,
-    longitude: 106.655556,
-    kategori: "Transportasi",
-    deskripsi: "Bandara internasional utama Jakarta"
+    nama: "Hutan Kota Pekanbaru",
+    latitude: 0.515790,
+    longitude: 101.455536,
+    kategori: "Wisata",
+    deskripsi: "Area konservasi dan ruang terbuka hijau kota"
   },
   {
     id: 8,
-    nama: "Masjid Istiqlal",
-    latitude: -6.170278,
-    longitude: 106.831389,
-    kategori: "Ibadah",
-    deskripsi: "Masjid terbesar di Asia Tenggara"
+    nama: "Labersa",
+    latitude: 0.441569,
+    longitude: 101.487360,
+    kategori: "Hotel",
+    deskripsi: "Hotel dan convention center terkemuka di Pekanbaru"
   },
   {
     id: 9,
-    nama: "Gereja Katedral Jakarta",
-    latitude: -6.169722,
-    longitude: 106.833611,
-    kategori: "Ibadah",
-    deskripsi: "Gereja Katolik Roma bergaya neo-gotik"
+    nama: "Kantor Walikota Pekanbaru",
+    latitude: 0.513195,
+    longitude: 101.446838,
+    kategori: "Pemerintahan",
+    deskripsi: "Pusat pemerintahan Kota Pekanbaru"
   },
   {
     id: 10,
-    nama: "Taman Impian Jaya Ancol",
-    latitude: -6.126667,
-    longitude: 106.833333,
-    kategori: "Wisata",
-    deskripsi: "Kompleks rekreasi tepi pantai"
+    nama: "Kantor Gubernur Riau",
+    latitude: 0.517453,
+    longitude: 101.445749,
+    kategori: "Pemerintahan",
+    deskripsi: "Pusat pemerintahan Provinsi Riau"
   },
+  // 10 Lokasi Tambahan Penting
   {
     id: 11,
-    nama: "Plaza Senayan",
-    latitude: -6.225833,
-    longitude: 106.799722,
-    kategori: "Perbelanjaan",
-    deskripsi: "Pusat perbelanjaan modern di Jakarta Selatan"
+    nama: "Masjid Raya An-Nur",
+    latitude: 0.526632,
+    longitude: 101.450785,
+    kategori: "Ibadah",
+    deskripsi: "Masjid terbesar dan landmark spiritual Pekanbaru"
   },
   {
     id: 12,
-    nama: "Pasar Tanah Abang",
-    latitude: -6.178056,
-    longitude: 106.815833,
+    nama: "Mall SKA Pekanbaru",
+    latitude: 0.499536,
+    longitude: 101.418108,
     kategori: "Perbelanjaan",
-    deskripsi: "Pasar tekstil terbesar di Asia Tenggara"
+    deskripsi: "Pusat perbelanjaan modern terbesar di Pekanbaru"
   },
   {
     id: 13,
-    nama: "Stadion Gelora Bung Karno",
-    latitude: -6.218333,
-    longitude: 106.801944,
-    kategori: "Olahraga",
-    deskripsi: "Stadion utama kompleks olahraga Senayan"
+    nama: "MTQ",
+    latitude: 0.477862,
+    longitude: 101.455072,
+    kategori: "Budaya",
+    deskripsi: "Bangunan tradisional bergaya Melayu yang mengadakan acara budaya, dengan olahraga dan pameran musiman di luar."
   },
   {
     id: 14,
-    nama: "Perpustakaan Nasional",
-    latitude: -6.186389,
-    longitude: 106.843056,
-    kategori: "Pendidikan",
-    deskripsi: "Perpustakaan nasional terbesar di Indonesia"
+    nama: "Bandara Sultan Syarif Kasim II",
+    latitude: 0.464356,
+    longitude: 101.447045,
+    kategori: "Transportasi",
+    deskripsi: "Bandara internasional utama Pekanbaru"
   },
   {
     id: 15,
-    nama: "Kawasan Kota Tua",
-    latitude: -6.137778,
-    longitude: 106.817222,
-    kategori: "Wisata",
-    deskripsi: "Kawasan bersejarah bekas pusat kota Batavia"
+    nama: "Terminal Bandar Raya Payung Sekaki",
+    latitude: 0.502284,
+    longitude: 101.388033,
+    kategori: "Transportasi",
+    deskripsi: "Terminal bus utama Pekanbaru"
   },
   {
     id: 16,
-    nama: "Ragunan",
-    latitude: -6.307222,
-    longitude: 106.820833,
-    kategori: "Wisata",
-    deskripsi: "Kebun binatang dan taman rekreasi"
+    nama: "Museum Sang Nila Utama",
+    latitude: 0.494152,
+    longitude: 101.454434,
+    kategori: "Budaya",
+    deskripsi: "Museum sejarah dan budaya Melayu Riau"
   },
   {
     id: 17,
-    nama: "Rumah Sakit Fatmawati",
-    latitude: -6.292778,
-    longitude: 106.795833,
-    kategori: "Kesehatan",
-    deskripsi: "Rumah sakit umum pusat di Jakarta Selatan"
+    nama: "Perpustakaan Soeman HS",
+    latitude: 0.515491,
+    longitude: 101.446478,
+    kategori: "Pendidikan",
+    deskripsi: "Perpustakaan modern dengan arsitektur unik"
   },
   {
     id: 18,
-    nama: "Terminal Kampung Rambutan",
-    latitude: -6.309722,
-    longitude: 106.880833,
-    kategori: "Transportasi",
-    deskripsi: "Terminal bus antarkota di Jakarta Timur"
+    nama: "Taman Budaya Riau",
+    latitude: 0.495179,
+    longitude: 101.454357,
+    kategori: "Budaya",
+    deskripsi: "Pusat kegiatan seni dan budaya Riau"
   },
   {
     id: 19,
-    nama: "Gedung DPR/MPR",
-    latitude: -6.208889,
-    longitude: 106.801944,
-    kategori: "Pemerintahan",
-    deskripsi: "Kompleks gedung parlemen Indonesia"
+    nama: "Pasar Wisata Pasar Bawah",
+    latitude: 0.538241,
+    longitude: 101.443812,
+    kategori: "Wisata",
+    deskripsi: "Pusat oleh-oleh dan kuliner khas Riau"
   },
   {
     id: 20,
-    nama: "Istana Negara",
-    latitude: -6.170278,
-    longitude: 106.826944,
-    kategori: "Pemerintahan",
-    deskripsi: "Istana kepresidenan Republik Indonesia"
+    nama: "Rumbai Sport Center",
+    latitude: 0.572405,
+    longitude: 101.430826,
+    kategori: "Olahraga",
+    deskripsi: "Pusat venue olahraga di Pekanbaru"
   }
 ];
